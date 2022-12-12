@@ -1,0 +1,12 @@
+C:\Users\Bassaam Rahat\source\repos\SignUp\SignUp\bin\Debug\SignUp.exe.config
+C:\Users\Bassaam Rahat\source\repos\SignUp\SignUp\bin\Debug\SignUp.exe
+C:\Users\Bassaam Rahat\source\repos\SignUp\SignUp\bin\Debug\SignUp.pdb
+C:\Users\Bassaam Rahat\source\repos\SignUp\SignUp\obj\Debug\SignUp.csproj.AssemblyReference.cache
+C:\Users\Bassaam Rahat\source\repos\SignUp\SignUp\obj\Debug\SignUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bassaam Rahat\source\repos\SignUp\SignUp\obj\Debug\SignUp.Properties.Resources.resources
+C:\Users\Bassaam Rahat\source\repos\SignUp\SignUp\obj\Debug\SignUp.csproj.GenerateResource.cache
+C:\Users\Bassaam Rahat\source\repos\SignUp\SignUp\obj\Debug\SignUp.csproj.CoreCompileInputs.cache
+C:\Users\Bassaam Rahat\source\repos\SignUp\SignUp\obj\Debug\SignUp.exe
+C:\Users\Bassaam Rahat\source\repos\SignUp\SignUp\obj\Debug\SignUp.pdb
+C:\Users\Bassaam Rahat\source\repos\SignUp\SignUp\obj\Debug\SignUp.LogIn.resources
+C:\Users\Bassaam Rahat\source\repos\SignUp\SignUp\obj\Debug\SignUp.SignUp.resources
